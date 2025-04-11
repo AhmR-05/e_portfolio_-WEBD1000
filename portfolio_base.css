@@ -104,6 +104,8 @@ dd{
 
 #imagedescription{
     float: left;
-    width: 50px;
+    width: 200px;
     height: 50px;
+    text-align: center;
+    padding: 10px;
 }
