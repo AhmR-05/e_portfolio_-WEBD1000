@@ -55,6 +55,33 @@ table, th, tr, td{
 }
 
 
+div h2{
+ text-align: center;
 
+}
 
+li{
+    text-align: justify;
+    color: white;
+    padding: 0.5em;
+}
+
+dl{
+    text-align: justify;
+    font-size: medium;
+    
+}
+
+dt{
+    font-size: large;
+    font-weight: bold;
+    text-align: start;
+    padding: 1em;
+    color: white;
+}
+
+dd{
+    color: blue;
+    font-size: large;
+}
 
