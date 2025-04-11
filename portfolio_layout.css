@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* Author: Ashley Rose
+Date: February 18th, 2025
+in class Ex.9 - adding to portfolio */ 
+
+
+#resumeBody{
+
+    display:grid;
+    grid-template:
+    "a a a " 150px
+    "b c c" 150px
+    "b c c" 150px / 1fr 1fr 1fr; 
+    gap: 10px;
+    background-color: lightskyblue;
+    padding: 10px;
+}
+
+#resumeBody > div{
+
+    background-color:white;
+    color: black;
+    padding: 10px;
+    font-size: 1em;
+    text-align: center;
+}
