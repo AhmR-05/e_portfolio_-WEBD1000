@@ -44,25 +44,4 @@ padding-top: 2em;}
 font-size: large;}
 
 
-form {
-    text-align: left;
-    background-color: aliceblue;
-    
-}
 
-input[type=text] {
-    width: 30%;
-    padding: 12px 8px;
-    margin: 3%;
-    box-sizing: border-box;
-  }
-
-  textarea{
-    box-sizing: border-box;
-    margin-bottom: 12px;
-    
-  }
-
-  #message{
-    padding-bottom: 12px;
-  }
