@@ -94,3 +94,12 @@ dd{
     text-decoration: underline;
 }
 
+#skill_description{
+    text-align: center;
+    
+}
+
+#skill{
+    color:rgb(18, 9, 148);
+    font-weight: bold;
+}
