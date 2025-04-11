@@ -24,3 +24,15 @@ in class Ex.9 - adding to portfolio */
     font-size: 1em;
     text-align: center;
 }
+
+table, th, tr, td{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+   font-size: large;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
