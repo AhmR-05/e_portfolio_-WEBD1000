@@ -4,18 +4,17 @@
     */
 body{
 
-    background-color:rgb(41, 37, 37);
+    background-color:rgb(112, 128, 144);
     text-align: center;
     font-family:'Courier New', Courier, monospace
 }
 
 img{
-border-radius: 2px solid;
+border-radius: 10px solid;
 width: 350px;
 padding: 2em;
 height: auto;
 border-color: antiquewhite;
-
 
 }
 
@@ -42,6 +41,20 @@ padding-top: 2em;}
 
  p{color:white;
 font-size: large;}
+
+table, th, tr, td{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+   font-size: large;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
 
 
