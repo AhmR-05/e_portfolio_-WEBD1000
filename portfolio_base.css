@@ -36,7 +36,7 @@ font-family: 'Courier New', Courier, monospace;}
 nav a{text-decoration: none;}
 
 nav{font-family: 'Courier New', Courier, monospace;
-font-size: x-large;
+font-size: large;
 padding-top: 2em;}
 
  p{color:white;
@@ -77,7 +77,7 @@ dl{
 dt{
     font-size: medium;
     font-weight: bold;
-    text-align: start;
+    text-align: center;
     padding: 1em;
     color: rgb(18, 9, 148);
 }
@@ -86,8 +86,11 @@ dd{
     color: white;
     font-size: large;
     padding-bottom: .5em;
+    text-align: center;
 }
 
 #aboutMe {
     text-align: center;
+    text-decoration: underline;
 }
+
