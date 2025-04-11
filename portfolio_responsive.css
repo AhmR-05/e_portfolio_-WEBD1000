@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* Author: Ashley Rose
+Date: April 10th, 2025
+Settings for responsive web*/ 
+
+/*Some format copied from assignment 3*/
+
+/* ===============================
+   Mobile Styles: 0px to 640px 
+   ===============================
+*/
+@media only screen and (max-width: 640px){
+    table, tr, td,{
+    display: block;  
+}
+
+#resumeBody{
+    display: grid;
+    
+}
+
+}
+
+
+
+
+
+
+/* =============================================
+   Tablet and Desktop Styles: greater than 640px
+   =============================================
+*/
+@media only screen and (min-width: 641px) { /*Min width for tablets, desktops etc*/
+    {
+
+    }
+    }
