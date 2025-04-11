@@ -1,20 +1,42 @@
 @charset "UTF-8";
 /*Author: Ashley Rose
-    Date: January 30th
+    Date: January 30th ////// UPDATED April 10th, 2025
     */
 body{
-    background-color:lightblue;
+
+    background-color:rgb(41, 37, 37);
     text-align: center;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img{
+border-radius: 2px solid;
+width: 350px;
+padding: 2em;
+height: auto;
+border-color: antiquewhite;
+
 
 }
 
-h1{color:blue}
+
+h1{color: lightblue;
+    text-decoration: underline;
+    font-size: x-large;
+padding-top: 2em;}
+
+h2{color: lightblue;
+   text-decoration: underline;
+    font-size: x-large;
+padding-top: 2em;}
 
 nav a{text-decoration: none;}
 
-nav{font-family: 'Courier New', Courier, monospace;}
+nav{font-family: 'Courier New', Courier, monospace;
+font-size:x-large;
+padding-top: 2em;}
 
- h1{text-decoration: underline;}
 
- p{color:darkmagenta}
+
+ p{color:white;
+font-size: large;}
