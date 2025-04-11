@@ -14,10 +14,7 @@ Settings for responsive web*/
     display: block;  
 }
 
-#resumeBody{
-    display: grid;
-    
-}
+
 
 }
 
@@ -30,8 +27,5 @@ Settings for responsive web*/
    Tablet and Desktop Styles: greater than 640px
    =============================================
 */
-@media only screen and (min-width: 641px) { /*Min width for tablets, desktops etc*/
-    {
-
-    }
-    }
+@media only screen and (min-width: 641px) /*Min width for tablets, desktops etc*/
+   
