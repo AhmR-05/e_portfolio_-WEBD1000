@@ -10,12 +10,8 @@ Settings for responsive web*/
    ===============================
 */
 @media only screen and (max-width: 640px){
-    table, tr, td,{
-    display: block;  
-}
-
-
-
+    table, tr, td{
+    display: block; }
 }
 
 
