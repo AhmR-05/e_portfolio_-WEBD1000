@@ -64,6 +64,8 @@ li{
     text-align: justify;
     color: white;
     padding: 0.5em;
+    font-size: large;
+    font-weight: lighter;
 }
 
 dl{
@@ -73,15 +75,16 @@ dl{
 }
 
 dt{
-    font-size: large;
+    font-size: medium;
     font-weight: bold;
     text-align: start;
     padding: 1em;
-    color: white;
+    color: rgb(18, 9, 148);
 }
 
 dd{
-    color: blue;
+    color: white;
     font-size: large;
+    padding-bottom: .5em;
 }
 
