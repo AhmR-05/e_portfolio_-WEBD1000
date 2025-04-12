@@ -87,12 +87,27 @@ dd{
     
 }
 
-#skill{
+#skill1{
+    color:rgb(18, 9, 148);
+    font-weight: bold;
+}
+
+#skill2{
+    color:rgb(18, 9, 148);
+    font-weight: bold;
+}
+
+#skill3{
     color:rgb(18, 9, 148);
     font-weight: bold;
 }
 
 #professionalSummary{
+    font-size: large;
+    background-color: darkblue;
+}
+
+#professionalSummary1{
     font-size: large;
     background-color: darkblue;
 }
